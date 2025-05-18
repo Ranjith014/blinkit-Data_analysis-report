@@ -4,8 +4,8 @@
 
 This repository showcases a comprehensive Business Intelligence dashboard developed for **Blinkit - India's Last Minute**, providing deep insights into sales performance, product trends, outlet efficiency, and customer satisfaction. The dashboard, created by **Ranjith**, offers a visually rich and interactive experience for data-driven decision-making.
 
-![Blinkit Dashboard Screenshot](https://i.imgur.com/YOUR_IMAGE_LINK_HERE.png)
-*(Self-host the original image and replace YOUR_IMAGE_LINK_HERE with the actual URL)*
+![Blinkit Dashboard Screenshot](https://github.com/Ranjith014/blinkit-Data_analysis-report/blob/main/blink.png)
+
 
 ---
 
